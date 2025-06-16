@@ -1,0 +1,18 @@
+# Ignore compiled binaries
+a.out
+a.exe
+
+# Object files
+*.o
+*.obj
+
+# Core dumps
+core
+
+# Backup/editor files
+*~
+*.swp
+.DS_Store
+
+# VSCode settings (optional)
+.vscode/
